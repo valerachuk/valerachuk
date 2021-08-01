@@ -1,3 +1,18 @@
+<p align="center">
+  <img alt="valerachuk" src="./img/valerachuk.png">
+</p>
+
+<!-- # Technologies
+
+<p float="left">
+<img width="60px" alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
+<img width="60px" alt=".NET Core" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png">
+<img width="60px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img width="60px" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img width="70px" alt="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
+<img width="60px" alt="Vue.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+</p> -->
+
 # My projects
 
 ## [WebVote](https://github.com/valerachuk/web-vote)
@@ -18,6 +33,8 @@ This project was created by
 ## [MakeMeTrip](https://github.com/valerachuk/my-trip)
 
 MakeMeTrip - this is a travel planning app. In it, you can plan a trip to a cafe or Museum, you can see the nearest attractions on the map, plan them and visit them. The app also has a trip history and you can plan your route, manage your housing, tickets, and transport bookings
+
+This project was created by 5 contributors and 2 mentors.
 
 **Technologies**: Vue.js, Vuetify, ASP.NET Core, EF Core, MS SQL Server
 
