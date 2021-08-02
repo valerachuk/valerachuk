@@ -28,6 +28,15 @@ App for scheduling appointments, events and to do with the ability to create rec
 This project was created by
 [andrewpetrenko1](https://github.com/andrewpetrenko1), [RyzhkovaAnastasia](https://github.com/RyzhkovaAnastasia) and [valerachuk](https://github.com/valerachuk) under the guidance of [ilyaskav](https://github.com/ilyaskav) on [Apriorit](https://www.apriorit.com/)'s «Advanced .NET Web Development» course.
 
+### I was responsible for
+
+- Creating project structure (server + client)
+- Authentication
+- Scheduled email notifications
+- Exporting event and calendar
+- Unit tests
+- Deploying project
+
 **Technologies**: Angular, Bootstrap, ASP.NET Core, EF Core, MS SQL Server. A large part of code was covered by unit tests.
 
 ## [MakeMeTrip](https://github.com/valerachuk/my-trip)
@@ -35,6 +44,16 @@ This project was created by
 MakeMeTrip - this is a travel planning app. In it, you can plan a trip to a cafe or Museum, you can see the nearest attractions on the map, plan them and visit them. The app also has a trip history and you can plan your route, manage your housing, tickets, and transport bookings
 
 This project was created by 5 contributors and 2 mentors.
+
+### I was responsible for
+
+- Front-end authentication
+- User settings page
+- Signing in with Google
+- List of future trips and trip waypoints
+  - Attaching files to trip waypoints
+- Pagination, filters and sorting for accommodations
+- Localization using vue-i18n
 
 **Technologies**: Vue.js, Vuetify, ASP.NET Core, EF Core, MS SQL Server
 
